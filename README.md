@@ -44,6 +44,15 @@ It merges public data feeds (fire, traffic, power, weather, beaches, aircraft, p
 
 ### 🔧 Other projects
 
+<p align="center">
+  <a href="https://github.com/AkumasCoffin/rdio-scanner">
+    <img alt="rdio-scanner repository" src="https://github-stats-extended.vercel.app/api/pin?username=AkumasCoffin&repo=AkumasCoffin%2Frdio-scanner&show_owner=true&description_lines_count=3&theme=omni">
+  </a>
+  <a href="https://github.com/AkumasCoffin/sdrtrunk-vce">
+    <img alt="sdrtrunk-vce repository" src="https://github-stats-extended.vercel.app/api/pin?username=AkumasCoffin&repo=AkumasCoffin%2Fsdrtrunk-vce&show_owner=true&description_lines_count=3&theme=omni">
+  </a>
+</p>
+
 | Project | What it is |
 | --- | --- |
 | [rdio-scanner](https://github.com/AkumasCoffin/rdio-scanner) | Fork of rdio-scanner with PostgreSQL, Whisper transcription, a public REST API, a stats dashboard and an Android client |
